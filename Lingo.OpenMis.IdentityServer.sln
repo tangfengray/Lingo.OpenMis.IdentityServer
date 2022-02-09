@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lingo.OpenMis.IdentityServer", "Lingo.OpenMis.IdentityServer.csproj", "{4146AD1C-82BA-44A4-AC3F-7D3B1B55BFBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lingo.OpenMis.Service", "..\Lingo.OpenMis.Service\Lingo.OpenMis.Service.csproj", "{F87A087F-958E-46D9-9313-A0D0A651230D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4146AD1C-82BA-44A4-AC3F-7D3B1B55BFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4146AD1C-82BA-44A4-AC3F-7D3B1B55BFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4146AD1C-82BA-44A4-AC3F-7D3B1B55BFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87A087F-958E-46D9-9313-A0D0A651230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87A087F-958E-46D9-9313-A0D0A651230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87A087F-958E-46D9-9313-A0D0A651230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87A087F-958E-46D9-9313-A0D0A651230D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
