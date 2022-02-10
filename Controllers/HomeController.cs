@@ -15,7 +15,7 @@ namespace Lingo.OpenMis.IdentityServer.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.ID = (new ClassLibrary2.Class1()).Name;
+            //ViewBag.ID = (new ClassLibrary2.Class1()).Name;
             return View();
         }
 
